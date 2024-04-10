@@ -1,0 +1,11 @@
+azure-functions
+azure-functions-durable
+azure-storage-blob 
+azure-identity
+pandas
+openpyxl
+pyodbc
+azure-servicebus
+sqlalchemy
+pytest
+xlsxwriter
